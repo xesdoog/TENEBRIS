@@ -1,0 +1,9 @@
+glfw
+imgui
+opencv-python
+psutil
+pyinjector
+PyOpenGL
+pywin32
+win32con
+win32gui
